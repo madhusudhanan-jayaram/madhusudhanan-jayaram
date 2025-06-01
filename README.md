@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Madhu
 
-### 💼 Technology Leader | 🚀 Full Stack Developer | 🤖 AI Enthusiast | 🇮🇳 USA
+### 🚀 Technology Leader | 🤖 AI Enthusiast | 💳 Banking & Finance Expert  
+### ☁️ Cloud-Native Advocate | 🔐 Application Security Specialist | 🧠 Lifelong Learner | 🇮🇳 USA
 
 ---
 
@@ -27,7 +28,12 @@
 - 🧠 Earn an AI certification (possibly DeepLearning.AI, AWS AI/ML, or Google Vertex AI)
 - 🧩 Contribute to Open Source in AI + Full Stack projects
 ---
+### 📊 Industry Focus
 
+- 💳 **Banking & Finance** – Retail & Corporate Banking, Risk Management, Compliance, Core Banking Modernization  
+- 🤖 **Artificial Intelligence (AI)** – Enterprise GenAI, Predictive Modeling, AI-assisted Development  
+- 🔐 **Cybersecurity** – Application Security, Zero Trust Architecture, Vault & Secrets Management, Secure DevOps
+---
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
 
@@ -37,6 +43,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/madhusudhanan-jeyaram/)
 - 🌐 [Portfolio Website]
+-  ✉️ madhusudhanan.jayaram@gmail.com
 
 ---
 
