@@ -1,7 +1,8 @@
 ## Hi there 👋 It's me Madhu
 
 ### 🚀 Technology Leader | 🤖 AI Enthusiast | 💳 Banking & Finance Expert  
-### ☁️ Cloud-Native Advocate | 🔐 Application Security Specialist | 🧠 Lifelong Learner | 🇮🇳 USA
+### ☁️ Cloud-Native Advocate | 🔐 Application Security Specialist | 🧠 Lifelong Learner
+### 🇮🇳 Origin: India | 🌎 Currently in: USA
 ---
 ### 👨‍💻 About Me
 
@@ -10,14 +11,6 @@
 - 🌱 Currently exploring: **AI + Coding**, **Cloud-native apps**, **Stock Market Analytics**
 - 💡 Passionate about building scalable systems, mentoring teams, and solving real-world problems.
 - 📚 I upskill annually with certifications and side projects in emerging tech.
-
----
-
-### 🏢 Company  
-**Tata Consultancy Services (TCS)**
-
-### 🌎 Location  
-**United States of America (USA)**
 
 ---
 ### I code in
