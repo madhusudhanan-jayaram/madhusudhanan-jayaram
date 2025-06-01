@@ -43,8 +43,8 @@
 ### 🧠 Quote I Live By
 > *“Risk comes from not knowing what you’re doing.” – Warren Buffett*
 ---
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Madhusudhanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhusudhanan-jayaram&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MadhuSakthi1?ext=contest&theme=dark)](https://leetcode.com/MadhuSakthi1)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Madhusudhanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhusudhanan-jayaram&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
