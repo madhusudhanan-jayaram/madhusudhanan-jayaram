@@ -2,7 +2,7 @@
 
 ### 🚀 Technology Leader | 🤖 AI Enthusiast | 💳 Banking & Finance Expert  
 ### ☁️ Cloud-Native Advocate | 🔐 Application Security Specialist | 🧠 Lifelong Learner
-### 🇮🇳 Origin: India | 🌎 Currently in: USA
+### Origin: India | 🌎 Currently in: USA
 ---
 # 💫 About Me:
 🔭 I’m currently working on: Microservices & Micro Frontends using Spring Boot and Angular<br>Software Engineer @ TATA Consultancy Services<br>🌱 Currently exploring: AI + Coding, Cloud-native apps, Stock Market Analytics<br>💡 Passionate about building scalable systems, mentoring teams, and solving real-world problems.<br>📚 I upskill annually with certifications and side projects in emerging tech.<br>
@@ -19,15 +19,14 @@
 - 🧩 Contribute to Open Source in AI + Full Stack projects
 ---
 ### 📊 Industry Focus
-
 - 💳 **Banking & Finance** – Retail & Corporate Banking, Risk Management, Compliance, Core Banking Modernization  
 - 🤖 **Artificial Intelligence (AI)** – Enterprise GenAI, Predictive Modeling, AI-assisted Development  
 - 🔐 **Cybersecurity** – Application Security, Zero Trust Architecture, Vault & Secrets Management, Secure DevOps
 ---
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-[![Leetcode Stats](https://leetcard.jacoblin.cool/MadhuSakthi1?ext=contest&theme=dark)](https://leetcode.com/MadhuSakthi1)
+👨‍💻 [![LeetCode Stats](https://leetcard.jacoblin.cool/MadhuSakthi1?ext=contest&theme=dark)](https://leetcode.com/MadhuSakthi1) 🚀
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhusudhanan-jayaram&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
