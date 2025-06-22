@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=madhusudhanan-jayaram&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhusudhanan-jayaram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# **LeetCode Stats** 👨‍💻  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MadhuSakthi1?ext=contest&theme=dark)](https://leetcode.com/MadhuSakthi1) 🚀  
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
