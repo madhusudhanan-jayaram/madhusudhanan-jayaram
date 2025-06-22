@@ -24,12 +24,20 @@
 - 🤖 **Artificial Intelligence (AI)** – Enterprise GenAI, Predictive Modeling, AI-assisted Development  
 - 🔐 **Cybersecurity** – Application Security, Zero Trust Architecture, Vault & Secrets Management, Secure DevOps
 ---
-
-### 🧠 Quote I Live By
-> *“Risk comes from not knowing what you’re doing.” – Warren Buffett*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-![Madhusudhanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhusudhanan-jayaram&theme=dark&show_icons=true&&hide=issues,contribs)
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/MadhuSakthi1?ext=contest&theme=dark)](https://leetcode.com/MadhuSakthi1)
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=madhusudhanan-jayaram&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=madhusudhanan-jayaram&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhusudhanan-jayaram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=madhusudhanan-jayaram&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![Madhusudhanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhusudhanan-jayaram&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+[![](https://visitcount.itsvg.in/api?id=madhusudhanan-jayaram&icon=0&color=0)](https://visitcount.itsvg.in)
