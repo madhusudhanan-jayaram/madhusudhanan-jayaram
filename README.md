@@ -25,5 +25,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=madhusudhanan-jayaram&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=madhusudhanan-jayaram&icon=0&color=11)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=MadhuSakthi1&label=PROFILE+VIEWS&color=blue&style=flat) 👁️
