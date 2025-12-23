@@ -1,6 +1,43 @@
 # 💫 About Me:
-🔭 I’m currently working on: Microservices & Micro Frontends using Spring Boot and Angular<br>Software Engineer @ TATA Consultancy Services<br>🌱 Currently exploring: AI + Coding, Cloud-native apps, Stock Market Analytics<br>💡 Passionate about building scalable systems, mentoring teams, and solving real-world problems.<br>📚 I upskill annually with certifications and side projects in emerging tech.<br>
+**AI & Strategy Leader | AI Product Owner | AI Architect**  
+Focused on **Agentic AI, AI Agents, and Generative AI** — building practical AI systems that ship.
 
+---
+## What I’m focused on
+- **Agentic AI systems**: multi-agent workflows, orchestration, tool use
+- **GenAI product architecture**: RAG patterns, evaluation, guardrails, observability
+- **AI product ownership**: turning business problems into scalable AI products
+---
+
+## Featured Work (Agentic AI / GenAI)
+- **Agentic Trip Planner (Full Stack)** — Angular + FastAPI (planned) + multi-agent orchestration (planned)  
+  Repo: https://github.com/madhusudhanan-jayaram/agentic_ai_travel_planner_full_stack
+
+- **IT Support Chatbot Demo** — prompt + KB driven troubleshooting flow (demo repo)  
+  Repo: https://github.com/madhusudhanan-jayaram/it_support_chatbot_demo
+
+- **Build System with ChatGPT API** — experiments and learnings around building with LLM APIs  
+  Repo: https://github.com/madhusudhanan-jayaram/buildingsystem_with_chatgpt_api
+
+---
+
+## Machine Learning Projects
+- **Vehicle Damage Detection (Deep Learning + FastAPI + HTML UI)**  
+  Repo: https://github.com/madhusudhanan-jayaram/deeplearning_vehicle_damage_detection
+
+- **WhatsApp Analyzer** (NLP + analytics + web app structure)  
+  Repo: https://github.com/madhusudhanan-jayaram/whatsapp_analyser
+
+- **Stock Prediction (Time Series)**  
+  Repo: https://github.com/madhusudhanan-jayaram/stock_prediction_time_series
+
+- **Movie Recommendation System**  
+  Repo: https://github.com/madhusudhanan-jayaram/movie_recommendation_system
+
+- **Machine Learning Practice Pack** (regression/classification + tuning notebooks)  
+  Repo: https://github.com/madhusudhanan-jayaram/2.Machine-Learning
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhusakthi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudhanan-jeyaram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhusudhanan.jayaram@gmail.com) 
