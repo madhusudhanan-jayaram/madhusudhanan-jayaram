@@ -38,7 +38,10 @@ Focused on **Agentic AI, AI Agents, and Generative AI** — building practical A
   Repo: https://github.com/madhusudhanan-jayaram/2.Machine-Learning
 
 ---
-
+## Links
+- Portfolio: https://madhusudhanan.online
+- GitHub: https://github.com/madhusudhanan-jayaram
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhusakthi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudhanan-jeyaram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhusudhanan.jayaram@gmail.com) 
 
@@ -61,5 +64,8 @@ Focused on **Agentic AI, AI Agents, and Generative AI** — building practical A
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=madhusudhanan-jayaram&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### If you're building Agentic AI products…
+I’m always interested in practical use-cases where **agents + good architecture + product thinking** create real business value.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MadhuSakthi1&label=PROFILE+VIEWS&color=blue&style=flat) 👁️
