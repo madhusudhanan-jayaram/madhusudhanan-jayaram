@@ -9,19 +9,14 @@ Focused on **Agentic AI, AI Agents, and Generative AI** — building practical A
 - **AI product ownership**: turning business problems into scalable AI products
 ---
 
-## Featured Work (Agentic AI / GenAI)
-- **Agentic Trip Planner (Full Stack)** — Angular + FastAPI (planned) + multi-agent orchestration (planned)  
-  Repo: https://github.com/madhusudhanan-jayaram/agentic_ai_travel_planner_full_stack
-
-- **IT Support Chatbot Demo** — prompt + KB driven troubleshooting flow (demo repo)  
-  Repo: https://github.com/madhusudhanan-jayaram/it_support_chatbot_demo
+## Featured Work (Agentic AI / GenAI) - Portfolio
 
 - **Build System with ChatGPT API** — experiments and learnings around building with LLM APIs  
   Repo: https://github.com/madhusudhanan-jayaram/buildingsystem_with_chatgpt_api
 
 ---
 
-## Machine Learning Projects
+## Machine Learning Portfolio
 - **Vehicle Damage Detection (Deep Learning + FastAPI + HTML UI)**  
   Repo: https://github.com/madhusudhanan-jayaram/deeplearning_vehicle_damage_detection
 
