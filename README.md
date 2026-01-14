@@ -12,9 +12,8 @@ Focused on **Agentic AI, AI Agents, and Generative AI** — building practical A
 ## Featured Work (Agentic AI / GenAI) - Portfolio
 
 ![Twin Project – AI Digital Twin Application]
-
-*AI Digital Twin application deployed on AWS, showcasing a conversational interface for interacting with a cloud-hosted digital twin.*
- Repo: https://github.com/madhusudhanan-jayaram/twin
+- **Digital Twin application deployed on AWS, showcasing a conversational interface for interacting with a cloud-hosted digital twin. (React, Python, AWS) **  
+  Repo: https://github.com/madhusudhanan-jayaram/twin
 ---
 
 ## Machine Learning Portfolio
