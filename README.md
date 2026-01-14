@@ -13,7 +13,7 @@ Focused on **Agentic AI, AI Agents, and Generative AI** — building practical A
 
 - **🔁 Twin Project (AWS) ** — Built a cloud-native Twin application on AWS to mirror and process system data using a serverless, event-driven architecture with Lambda, API Gateway, S3, Terraform, and Cloudfront.
  
-![Twin Project – AI Digital Twin Application](assets/ChatGPT Image Jan 11, 2026, 12_34_32 PM.png)
+![Twin Project – AI Digital Twin Application]
 
 *AI Digital Twin application deployed on AWS, showcasing a conversational interface for interacting with a cloud-hosted digital twin.*
  Repo: https://github.com/madhusudhanan-jayaram/twin
