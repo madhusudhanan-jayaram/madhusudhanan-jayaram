@@ -9,7 +9,7 @@ Focused on **Agentic AI, AI Agents, and Generative AI** — building practical A
 - **AI product ownership**: turning business problems into scalable AI products
 ---
 
-## Featured Work (Agentic AI / GenAI) - Portfolio
+## Agentic AI / GenAI - Portfolio
 - Digital Twin application deployed on AWS, showcasing a conversational interface for interacting with a cloud-hosted digital twin. (React, Python, AWS)
   Repo: https://github.com/madhusudhanan-jayaram/twin
 ---
