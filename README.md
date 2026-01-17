@@ -10,7 +10,7 @@ Focused on **Agentic AI, AI Agents, and Generative AI** — building practical A
 ---
 
 ## Agentic AI / GenAI - Portfolio
-- Digital Twin application deployed on AWS, showcasing a conversational interface for interacting with a cloud-hosted digital twin. (React, Python, AWS)
+- Built a serverless AI Digital Twin application with a conversational interface, using React, FastAPI on AWS Lambda, Amazon Bedrock (LLM), S3, CloudFront, and Terraform for automated infrastructure provisioning.
   Repo: https://github.com/madhusudhanan-jayaram/twin
 ---
 
