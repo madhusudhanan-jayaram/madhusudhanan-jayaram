@@ -29,6 +29,7 @@ Focused on **Agentic AI, AI Agents, and Generative AI** — building practical A
 
 - **Kidney Disease Prediction (Machine Learning + Flask Web App)**
   Built an end-to-end ML application for chronic kidney disease prediction with a Flask web interface deployed on Google Cloud App Engine, leveraging Vertex AI for model training,    experimentation, and scalable inference within a production-ready cloud architecture.
+
   Repo: https://github.com/madhusudhanan-jayaram/2.Machine-Learning
 
 ---
