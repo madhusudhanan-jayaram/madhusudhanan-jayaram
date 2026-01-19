@@ -1,6 +1,13 @@
-# 💫 About Me:
-**AI & Strategy Leader | AI Product Owner | AI Architect**  
-Focused on **Agentic AI, AI Agents, and Generative AI** — building practical AI systems that ship.
+**Senior AI Lead | AI Solution Architect**  
+# 💫 About Me
+
+**Senior AI Lead | AI Solution Architect**
+
+Principal Systems Engineer with 18+ years of experience designing, building, and modernizing large-scale enterprise platforms.
+
+Over the last year, I have upskilled in **AI and Generative AI**, focusing on designing and delivering **production-grade AI solutions**, including **Agentic AI systems, AI agents, and RAG-based architectures**.
+
+I specialize in applying AI to real enterprise problems—modernizing legacy systems, automating workflows, and building **scalable, cloud-native, and secure AI platforms**. My work bridges strong engineering fundamentals with modern AI architecture and product thinking.
 
 ---
 ## What I’m focused on
