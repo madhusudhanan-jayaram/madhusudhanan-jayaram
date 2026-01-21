@@ -22,16 +22,24 @@ I specialize in applying AI to real enterprise problems—modernizing legacy sys
 ---
 
 ## Machine Learning Portfolio
-- **Vehicle Damage Detection (Deep Learning + FastAPI + HTML UI)**  
+- **Vehicle Damage Detection (Deep Learning + FastAPI + HTML UI)**
+- Built a deep-learning–based computer vision system to detect and classify vehicle damages from images.
+Exposed the model via FastAPI with a simple HTML UI for real-time inference and demo usage.
   Repo: https://github.com/madhusudhanan-jayaram/deeplearning_vehicle_damage_detection
 
-- **WhatsApp Analyzer** (NLP + analytics + web app structure)  
+- **WhatsApp Analyzer** (NLP + analytics + web app structure)
+- Developed an NLP-driven analytics engine to extract insights from WhatsApp chat data.
+Performed sentiment analysis, activity trends, and message statistics with a structured web app interface.
   Repo: https://github.com/madhusudhanan-jayaram/whatsapp_analyser
 
-- **Stock Prediction (Time Series)**  
+- **Stock Prediction (Time Series)**
+- Implemented time-series forecasting models to predict stock price movements using historical data.
+Applied feature engineering and model evaluation techniques to analyze trends and volatility.
   Repo: https://github.com/madhusudhanan-jayaram/stock_prediction_time_series
 
-- **Movie Recommendation System**  
+- **Movie Recommendation System**
+- Built a recommendation engine using collaborative and content-based filtering techniques.
+Generated personalized movie suggestions based on user preferences and similarity metrics.
   Repo: https://github.com/madhusudhanan-jayaram/movie_recommendation_system
 
 - **Kidney Disease Prediction (Machine Learning + Flask Web App)**
